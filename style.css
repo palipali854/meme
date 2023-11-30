@@ -1,0 +1,25 @@
+body{background-color: black;} 
+div{ 
+   width: 50%;  
+   margin-left: 25% ;
+}  
+
+.image{ 
+    width: 100%;  
+    border: 5px solid white;
+
+
+
+} 
+.Silly{ 
+    font-family: 'Libre Baskerville', serif;  
+    color: white; 
+    text-align: center;
+    
+
+
+} 
+h1 {
+    text-transform: uppercase;
+
+}
